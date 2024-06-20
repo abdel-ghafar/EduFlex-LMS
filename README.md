@@ -3,8 +3,8 @@ css Copy code A comprehensive Learning Management System (LMS) designed to enhan
 
 <h2>Objective:</h2>To develop a comprehensive Learning Management System (LMS) that enhances the educational experience by providing tools for multimedia content creation, personalized learning paths, seamless communication, effective assessment, and clear progress tracking for students, teachers, and parents.
 
+<h2>Technologies Used:</h2>
 <ul>
-  <li><h2>Technologies Used:</h2></li>
   <li>h3>Frontend:</h3> HTML5, CSS3, JavaScript, Ajax</li>
   <li><h3>Backend:</h3> ASP.NET, SQL</li>
   <li><h3>Database:</h3> MySQL</li>
