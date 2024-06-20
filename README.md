@@ -5,7 +5,7 @@ css Copy code A comprehensive Learning Management System (LMS) designed to enhan
 
 <h2>Technologies Used:</h2>
 <ul>
-  <li>h3>Frontend:</h3> HTML5, CSS3, JavaScript, Ajax</li>
+  <li><h3>Frontend:</h3> HTML5, CSS3, JavaScript, Ajax</li>
   <li><h3>Backend:</h3> ASP.NET, SQL</li>
   <li><h3>Database:</h3> MySQL</li>
   <li><h3>Tools:</h3> Microsoft Teams, Visual Studio, Draw.io, Trello, Adobe Photoshop, Google Drive.</li>
