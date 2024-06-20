@@ -4,7 +4,7 @@ Parents can monitor their child's performance, staying engaged in their academic
 In essence, EduFlex Web Site promotes efficiency, engagement, and academic excellence through innovative features tailored for the modern educational landscape.
 <h2>Objective:</h2>To develop a comprehensive Learning Management System (LMS) that enhances the educational experience by providing tools for multimedia content creation, personalized learning paths, seamless communication, effective assessment, and clear progress tracking for students, teachers, and parents.
 
-<h2 style="Color:Blue">Technologies Used:</h2>
+<h2 style="Color:blue;">Technologies Used:</h2>
 <ul>
   <li><h3>Frontend:</h3> HTML5, CSS3, JavaScript, Ajax</li>
   <li><h3>Backend:</h3> ASP.NET, SQL</li>
