@@ -1,5 +1,6 @@
 # EduFlex-LMS
 (Learning Management System):  (CS Graduation Project)
+
 **EduFlex-LMS** is an innovative web application designed to transform the educational experience for students, teachers, and parents. It provides a user-friendly platform where students can effortlessly access course materials, including presentations, PDFs, videos, and records. Teachers can efficiently upload and manage course content, enhancing their teaching effectiveness. Parents can monitor their child's performance and stay engaged in their academic progress. EduFlex also fosters better communication between students and teachers through interactive posts, feedback, and real-time chat, creating a supportive learning environment.
 
 In essence, EduFlex promotes efficiency, engagement, and academic excellence through its innovative features tailored for the modern educational landscape.
