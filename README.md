@@ -25,5 +25,5 @@ To develop a comprehensive Learning Management System (LMS) that enhances the ed
 Successfully launched a functional Learning Management System that supports course management, user role management, interactive learning tools, assessments, progress tracking, and communication tools. The platform significantly enhances the learning experience and operational efficiency for students, teachers, and parents.
 
 ## Duration
-2 months
+2 months (71 days as per the project plan)
 
